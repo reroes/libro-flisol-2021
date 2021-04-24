@@ -3,7 +3,7 @@
 
 title: Libro -Flisol - 2021 
 author: René Elizalde 
-logo: logo.png
+logo: images/flisol-banner-social.png
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
