@@ -7,25 +7,17 @@ Here's what's inside!
 :::
 
 
-.. tabbed:: Tab 1
+````{panels}
+Content of the left panel.
 
-    Tab 1 content
+{badge}`example-badge,badge-primary`
 
-.. tabbed:: Tab 2
-    :class-content: pl-1 bg-primary
+---
 
-    Tab 2 content
+```{link-button} content/panels
+:text: Clickable right panel
+:type: ref
+:classes: stretched-link
+```
 
-.. tabbed:: Tab 3
-    :new-group:
-
-    .. code-block:: python
-
-        import pip
-
-.. tabbed:: Tab 4
-    :selected:
-
-    .. dropdown:: Nested Dropdown
-
-        Some content
+````
