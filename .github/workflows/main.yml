@@ -32,6 +32,9 @@ jobs:
       with:
         java-version: '11' # The OpenJDK version to make available on the path
         architecture: 'x64' # defaults to 'x64'
+    - name: Instalar kernel para Java
+      run: |
+        python librerias/ijava-1.3.0/install.py --sys-prefix
     # Build the book
     - name: Build the book
       run: |
