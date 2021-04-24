@@ -1,7 +1,7 @@
 # Contenido Java
 
 
-int v = 10;
+int demo = 10;
 
 public class Evento{
     

@@ -1,17 +1,17 @@
-Welcome to your Jupyter Book
+Uso de Jupyter Book - Charla 
 ============================
 
-This is a small sample book to give you a feel for how book content is
-structured.
+Bienvenidos a  la Charla **Creación de contenido educativo y científico a través de Jupyter Book**
 
-Check out the content pages bundled with this sample book to get started.
+# Agenda
 
-# Título 1
+## Jupyter
 
-## Título 1.1
+## Jupyter Notebook
 
-### Título 1.1.1
+## JupyterLab
 
-## Título 1.2
+## Jupyter Hub
 
-### Título 1.2.1
+## Jupyter Book
+
