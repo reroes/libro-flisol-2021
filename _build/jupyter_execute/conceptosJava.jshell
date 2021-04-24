@@ -1,0 +1,25 @@
+# Contenido Java
+
+
+int v = 10;
+
+public class Evento{
+    
+    String name;
+    String tipo;
+    
+    public Evento(String n, String t){
+        name = n;
+        tipo = t;
+    }
+    
+    public String toString(){
+        return String.format("Evento: name:%s - tipo:%s", name, tipo);
+    }
+}
+
+String nombre = "Flisol - 2021";
+String tipo = "gratuito";
+
+Evento evento = new Evento(nombre, tipo);
+System.out.println(evento);
