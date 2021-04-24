@@ -9,5 +9,9 @@
   sections:
     - file: markdown
     - file: notebooks
-- file: ejemplos
+- file: jupyterMyst
+  sections:
+    - file: ejemplos
+    - file: salidajava
+- file: contenido_especial
 
